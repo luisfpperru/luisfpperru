@@ -46,4 +46,4 @@
 <a href="mailto:luisperru.dsn.imb@alterdata.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-luisperru.dsn.imb@alterdata.com.br-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [AVS1508](https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/short-and-sweet/AVS1508.md)
