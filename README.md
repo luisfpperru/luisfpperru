@@ -1,10 +1,11 @@
 <h3> 👨🏻‍💻 &nbsp; Sobre mim </h3>
 
 - 💻 Matemático e desenvolvedor de software.
-- 📚 Estudioso em ciência de dados
+- 📚 Alguma experiência em Java e ReactJS. Aprimorando em VueJS, .NET e Deep Learning.
 - 🎮 Entusiasta de séries, animes e games.
 - 🐶 Dog person.
 - ☕ Coffee lover.
+- 🏢 Trabalhando atualmente na [Alterdata Software](https://www.alterdata.com.br)
 
 <h3> 🛠 &nbsp; Stacks </h3>
 
