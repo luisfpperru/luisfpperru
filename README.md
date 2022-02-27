@@ -1,4 +1,4 @@
-<h3> Sobre mim </h3>
+<h3> 👾 Sobre mim </h3>
 
 - 💻 Matemático e desenvolvedor de software.
 - 📚 Alguma experiência em Java e ReactJS. Aprimorando em VueJS, .NET e Deep Learning.
