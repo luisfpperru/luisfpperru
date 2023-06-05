@@ -5,7 +5,6 @@
 - 🎮 Entusiasta de séries, animes e games.
 - 🐶 Dog person.
 - ☕ Coffee lover.
-- 🏢 Trabalhando atualmente na [Alterdata Software](https://www.alterdata.com.br)
 
 <h3> 🛠 &nbsp; Stacks </h3>
 
