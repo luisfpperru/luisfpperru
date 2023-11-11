@@ -51,5 +51,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/luís-filipe-p-perrú-550899114/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luis%20Filipe%20P%20Perrú-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/luisfpperru/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-luisfpperru-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:luisperru.dsn.imb@alterdata.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-luisperru.dsn.imb@alterdata.com.br-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:lfpperru@gmail.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-lfpperru@gmail.com.br-blue?style=flat-square&logo=gmail"></a>
 </p>
